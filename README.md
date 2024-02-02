@@ -4,7 +4,7 @@
 A School group project focused on building optimal models to predict account balance in an artifical bank data set in R using statistical learning/modelling techniques.
 Benchmark Supervised machine learning techniques are used in this project.
 
-🗨️Quick Summary:
+🗨️Project Summary:
 
 ➡️Project 1 aims to construct a classical OLS multiple regression model through careful variable selection.
 The final model to be considered is determined by the lowest BIC criterion.
