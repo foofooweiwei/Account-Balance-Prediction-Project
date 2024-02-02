@@ -1,7 +1,8 @@
-# Statistical-Learning Project
+# Account Balance Prediction
 🥇Project Goals:
 
-A School group project focused on building optimal models to predict account balance in an artifical bank data set in R
+A School group project focused on building optimal models to predict account balance in an artifical bank data set in R using statistical learning/modelling techniques.
+Benchmark Supervised machine learning techniques are used in this project.
 
 🗨️Quick Summary:
 
